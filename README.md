@@ -1,7 +1,7 @@
-# My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
+# HI, My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 ### Profile
 
-I'm a geek,
+I'm a geek!,
 I usually code with Python and am always interested in learning new things
 
 ### Social
