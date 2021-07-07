@@ -1,8 +1,13 @@
 # HI, My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 ### Profile
 
-I'm a geek!,
+I'm a geek!, \
 I usually code with Python and am always interested in learning new things
+#### Favorites
+* Open source projects
+* back end with django
+* selenium 
+* Interest in learning reverse software engineering
 
 ### Social
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onionj/onionj/)
