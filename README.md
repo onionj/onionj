@@ -4,6 +4,7 @@
 I'm Back-End Web Development, \
 I usually code with Python and am always interested in learning new things
 #### Favorites
+* Linux
 * Open source projects
 * Back end with django
 * Selenium 
