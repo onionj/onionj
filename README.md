@@ -1,12 +1,13 @@
 # HI, My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 ### Profile
 
-I'm a geek!, \
+I'm back end developer, \
 I usually code with Python and am always interested in learning new things
 #### Favorites
 * Open source projects
-* back end with django
-* selenium 
+* Back end with django
+* Selenium 
+* Security
 * Interest in learning reverse software engineering
 
 ### Social
