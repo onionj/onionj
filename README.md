@@ -1,7 +1,7 @@
 # HI, My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 ### Profile
 
-I'm Back-End Web Development, \
+I'm Back-End Web Developer, \
 I usually code with Python and am always interested in learning new things
 #### Favorites
 * Linux
