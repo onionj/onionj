@@ -1,6 +1,6 @@
 <div align="center">
 
-##  HI, My name is saman <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
+__HI, My name is saman__
 
 
 I'm Back-End Web Developer, \
