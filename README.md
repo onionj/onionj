@@ -11,7 +11,7 @@ I usually code with Python and am always interested in learning new things
 __Favorites__
  
 Linux & Open source projects \
-django & Selenium \
+django & Selenium & FastAPI\
 Security 
 
 
