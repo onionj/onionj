@@ -9,7 +9,6 @@ I usually code with Python and am always interested in learning new things
 * Back end with django
 * Selenium 
 * Security
-* Interest in learning reverse software engineering
 
 
 
@@ -25,6 +24,4 @@ I usually code with Python and am always interested in learning new things
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onionj98/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b1_sami/)
  
-
-
 </div>
