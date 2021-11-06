@@ -6,6 +6,7 @@ __HI, My name is saman__
 
 I'm Back-End Web Developer, \
 I usually code with Python and am always interested in learning new things
+( [Persian resume](https://jobinja.ir/user/onionj) )
 
 
  
@@ -18,7 +19,6 @@ Security
 
  
  <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=onionj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
  
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onionj/)
