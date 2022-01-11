@@ -11,7 +11,8 @@ I usually code with Python and am always interested in learning new things
 
  
 __Favorites__
- 
+
+python & GoLang & C \
 Linux  &  Open source projects \
 Selenium & FastAPI\
 Security 
