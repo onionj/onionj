@@ -6,7 +6,7 @@ __HI, My name is saman__
 
 I'm Back-End Web Developer, \
 I usually code with Python and am always interested in learning new things
-( [My CV](https://onionj.github.io/cv/) )
+( [My Resume](https://onionj.github.io/cv/) )
 
 
  
