@@ -6,7 +6,7 @@ __HI, My name is saman__
 
 I'm Python Backnd Developer, \
 I’ve been working with Python and Linux since 2019, In these years I’ve tried to learn Python more day by day and throughout this path, I’ve accumulated a wealth of experience working with companies and open-source projects.
-
+( [My Resume](https://onionj.github.io/cv/) )
 
 
 <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=onionj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_title=true&line_height=25&hide_rank=true&hide=issues" />
