@@ -4,7 +4,7 @@
 __HI, My name is saman__ 
 
 
-I'm Python Backnd Developer, \
+I'm Python Developer, \
 I’ve been working with Python and Linux since 2019, In these years I’ve tried to learn Python more day by day and throughout this path, I’ve accumulated a wealth of experience working with companies and open-source projects.
 
 
