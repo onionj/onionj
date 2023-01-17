@@ -1,7 +1,7 @@
 <div align="center">
 
  
-__HI, My name is saman__ 
+__HI, My name is Saman__ 
 
 
 I'm Python Developer, \
