@@ -29,7 +29,5 @@ __Links:__
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onionj98@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onionj/)
 
-<a href="https://www.buymeacoffee.com/onionj" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<a href="http://www.coffeete.ir/onionj" target="_blank"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="Buy Me A Coffee" style="height: 31px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 [![My PyPI packages](https://img.shields.io/badge/-PyPI%20packages-4B8BBE?style=for-the-badge&labelColor=306998&logo=python&logoColor=white "My PyPI packages")](https://pypi.org/user/onionj)
