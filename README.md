@@ -8,15 +8,6 @@ I’ve been working with computers since 2019, In these years I’ve tried to le
 <!-- Down!
 <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=onionj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_title=true&line_height=25&hide_rank=true&hide=issues" />
  -->
- 
-__Favorites:__
-
-[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![GoLang](https://img.shields.io/badge/GO-FCC624?style=for-the-badge&logo=go&logoColor=black)](#)
-
- 
- 
 
 __Links:__
 
